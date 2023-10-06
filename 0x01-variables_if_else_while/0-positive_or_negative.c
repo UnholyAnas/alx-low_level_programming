@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+/**
+ * main - assigns a random number to int n
+ * it executes and prints
+ * Return: Always 0
+ */
 int main(void)
 {
   int n;
